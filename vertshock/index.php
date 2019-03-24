@@ -1,1 +1,0 @@
-<?php header("Location: http://chapman8.ADAMFOLKER.hop.clickbank.net/")?>
