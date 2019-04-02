@@ -1,2 +1,2 @@
-# investigative-reviews
+# Investigative Reviews
 Investigative Reviews Site
